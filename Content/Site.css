@@ -1,0 +1,129 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+div.jumbotron{
+    background-color: #a8d3c5;
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+}
+
+select{
+    height: 30px;
+    border-radius: 10px;
+}
+textarea {
+    border-radius: 10px;
+    width: 300px;
+}
+
+#myImage{
+    width: 100%;
+    height: 50%;
+}
+body {
+    background-color: #ebf4d8;
+}
+#page td {
+   padding:0; margin:0;
+}
+
+#page {
+   border-collapse: collapse;
+}
+#custTable tr {
+   padding:0; margin:0;
+}
+
+#custTable {
+   border-collapse: collapse;
+}
+
+#SubTable {
+   border-collapse: collapse;
+}
+#SubTable td {
+   padding:0; margin:0;
+}
+#detbit td {
+   padding:0; margin:0;
+}
+
+#detbit {
+   border-collapse: collapse;
+}
+
+#tblMydebitering {
+   border-collapse: collapse;
+}
+#tblMydebitering tr {
+   padding:0; margin:1px;
+}
+
+input {
+    margin-bottom: -15px;
+}
+input#DateToGetoverview {
+    width: 180px;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-top: -12px;
+}
+#tblSchudle {
+    background-color: #b3cccc;
+}
+#tblSchudle td{
+    border-left: 3px solid blue;
+}
+#tblSchudle th {
+    border-bottom : 3px solid blue;
+     border-left: 3px solid blue;
+}
+div#divUppföljningLinks {
+    margin-top: 50px;
+    margin-left: -150px;
+}
+/*label.control-label.col-md-2.textForLabel {
+    font-size: 10px;
+}*/

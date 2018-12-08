@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\172.27.1.33\c$\inetpub\wwwroot\TimeLoggDev</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>08/30/2018 10:55:41</publishTime>
+    </File>
+    <File Include="bin/BitLogTimeProject.dll">
+      <publishTime>09/19/2018 16:53:35</publishTime>
+    </File>
+    <File Include="bin/BitLogTimeProject.xml">
+      <publishTime>09/19/2018 16:53:35</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/30/2018 10:55:45</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/30/2018 10:55:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>08/30/2018 10:55:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>08/30/2018 10:55:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>08/30/2018 10:55:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>08/30/2018 10:55:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>08/30/2018 10:55:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/30/2018 10:55:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>08/30/2018 10:55:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>08/30/2018 10:55:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>08/30/2018 10:55:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>08/30/2018 10:56:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>08/30/2018 10:55:55</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>08/30/2018 10:55:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/30/2018 10:55:37</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/30/2018 10:55:40</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>08/30/2018 10:55:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>08/30/2018 10:55:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>08/30/2018 10:55:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>08/30/2018 10:55:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>08/30/2018 10:55:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>08/30/2018 10:55:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>08/30/2018 10:55:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>08/30/2018 10:55:36</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>08/30/2018 10:55:42</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="Content/Image/HomePageImage.png">
+      <publishTime>08/31/2018 13:06:39</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/19/2018 13:45:25</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/30/2018 10:56:03</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>08/30/2018 10:55:32</publishTime>
+    </File>
+    <File Include="Scripts/DropdownListValidations.js">
+      <publishTime>09/05/2018 13:45:41</publishTime>
+    </File>
+    <File Include="Scripts/EditPartnerValidations.js">
+      <publishTime>09/07/2018 14:03:22</publishTime>
+    </File>
+    <File Include="Scripts/JDateToGetOverview.js">
+      <publishTime>09/17/2018 14:30:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>08/30/2018 10:55:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>08/30/2018 10:55:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>08/30/2018 10:55:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>08/30/2018 10:56:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>08/30/2018 10:56:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>08/30/2018 10:56:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>08/30/2018 10:56:03</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>08/30/2018 10:55:39</publishTime>
+    </File>
+    <File Include="Scripts/PartnerLevelCheckBox.js">
+      <publishTime>09/07/2018 10:21:12</publishTime>
+    </File>
+    <File Include="Scripts/PartnerValidations.js">
+      <publishTime>09/12/2018 16:05:59</publishTime>
+    </File>
+    <File Include="Scripts/RegisterDebitLineProjectValidations.js">
+      <publishTime>09/14/2018 11:25:22</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Scripts/SubscriptionValidations.js">
+      <publishTime>09/10/2018 15:34:31</publishTime>
+    </File>
+    <File Include="Scripts/SubsicriptionsCheckBoxes.js">
+      <publishTime>09/17/2018 13:08:23</publishTime>
+    </File>
+    <File Include="Scripts/UniqueCompanyName.js">
+      <publishTime>08/30/2018 11:18:12</publishTime>
+    </File>
+    <File Include="Scripts/UniqueUserName.js">
+      <publishTime>09/05/2018 15:44:10</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/17/2018 13:06:58</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Account/Login.vbhtml">
+      <publishTime>09/06/2018 14:30:31</publishTime>
+    </File>
+    <File Include="Views/Account/Manage.vbhtml">
+      <publishTime>09/06/2018 14:30:55</publishTime>
+    </File>
+    <File Include="Views/Account/Register.vbhtml">
+      <publishTime>08/30/2018 10:55:44</publishTime>
+    </File>
+    <File Include="Views/Account/_ChangePasswordPartial.vbhtml">
+      <publishTime>09/06/2018 14:31:37</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Account/_RemoveAccountPartial.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Account/_SetPasswordPartial.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Commisions/Index.vbhtml">
+      <publishTime>09/05/2018 15:05:35</publishTime>
+    </File>
+    <File Include="Views/Companies/Create.vbhtml">
+      <publishTime>08/30/2018 11:19:00</publishTime>
+    </File>
+    <File Include="Views/Companies/Delete.vbhtml">
+      <publishTime>08/30/2018 11:09:16</publishTime>
+    </File>
+    <File Include="Views/Companies/Details.vbhtml">
+      <publishTime>08/30/2018 11:09:17</publishTime>
+    </File>
+    <File Include="Views/Companies/Edit.vbhtml">
+      <publishTime>08/30/2018 11:09:17</publishTime>
+    </File>
+    <File Include="Views/Companies/Index.vbhtml">
+      <publishTime>08/30/2018 11:09:18</publishTime>
+    </File>
+    <File Include="Views/Customers/AllCustomers.vbhtml">
+      <publishTime>09/17/2018 14:40:30</publishTime>
+    </File>
+    <File Include="Views/Customers/Create.vbhtml">
+      <publishTime>09/07/2018 15:59:50</publishTime>
+    </File>
+    <File Include="Views/Customers/Delete.vbhtml">
+      <publishTime>09/12/2018 11:05:47</publishTime>
+    </File>
+    <File Include="Views/Customers/Details.vbhtml">
+      <publishTime>09/07/2018 11:42:43</publishTime>
+    </File>
+    <File Include="Views/Customers/Edit.vbhtml">
+      <publishTime>09/10/2018 09:13:28</publishTime>
+    </File>
+    <File Include="Views/Customers/Index.vbhtml">
+      <publishTime>08/30/2018 15:33:28</publishTime>
+    </File>
+    <File Include="Views/DebitLines/Create.vbhtml">
+      <publishTime>09/14/2018 11:29:40</publishTime>
+    </File>
+    <File Include="Views/DebitLines/DebiteratInfoPerCustomerName.vbhtml">
+      <publishTime>09/19/2018 15:36:23</publishTime>
+    </File>
+    <File Include="Views/DebitLines/DebitLinePerCustomer.vbhtml">
+      <publishTime>09/19/2018 15:36:34</publishTime>
+    </File>
+    <File Include="Views/DebitLines/DebitLinePerMonth.vbhtml">
+      <publishTime>09/18/2018 14:21:25</publishTime>
+    </File>
+    <File Include="Views/DebitLines/DebitLinePerUserName.vbhtml">
+      <publishTime>09/19/2018 16:34:23</publishTime>
+    </File>
+    <File Include="Views/DebitLines/DebitLinesOverview.vbhtml">
+      <publishTime>09/06/2018 10:52:28</publishTime>
+    </File>
+    <File Include="Views/DebitLines/Delete.vbhtml">
+      <publishTime>09/12/2018 10:07:15</publishTime>
+    </File>
+    <File Include="Views/DebitLines/Details.vbhtml">
+      <publishTime>08/31/2018 09:04:57</publishTime>
+    </File>
+    <File Include="Views/DebitLines/Edit.vbhtml">
+      <publishTime>08/31/2018 09:04:58</publishTime>
+    </File>
+    <File Include="Views/DebitLines/Index.vbhtml">
+      <publishTime>08/31/2018 09:04:58</publishTime>
+    </File>
+    <File Include="Views/DebitLines/MyDebitering.vbhtml">
+      <publishTime>09/19/2018 15:36:08</publishTime>
+    </File>
+    <File Include="Views/Home/About.vbhtml">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.vbhtml">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="Views/Home/Index.vbhtml">
+      <publishTime>09/17/2018 15:01:30</publishTime>
+    </File>
+    <File Include="Views/Members/AddToRole.vbhtml">
+      <publishTime>09/05/2018 09:19:24</publishTime>
+    </File>
+    <File Include="Views/Members/AllUsers.vbhtml">
+      <publishTime>09/05/2018 09:08:45</publishTime>
+    </File>
+    <File Include="Views/Members/ChangePassword.vbhtml">
+      <publishTime>09/05/2018 10:03:19</publishTime>
+    </File>
+    <File Include="Views/Members/Delete.vbhtml">
+      <publishTime>09/03/2018 14:14:00</publishTime>
+    </File>
+    <File Include="Views/Members/MembershipDetails.vbhtml">
+      <publishTime>09/10/2018 16:22:04</publishTime>
+    </File>
+    <File Include="Views/Members/RegisterMember.vbhtml">
+      <publishTime>09/05/2018 15:46:32</publishTime>
+    </File>
+    <File Include="Views/PartnerLevels/Create.vbhtml">
+      <publishTime>08/30/2018 11:10:16</publishTime>
+    </File>
+    <File Include="Views/PartnerLevels/Delete.vbhtml">
+      <publishTime>08/30/2018 11:10:17</publishTime>
+    </File>
+    <File Include="Views/PartnerLevels/Details.vbhtml">
+      <publishTime>08/30/2018 11:10:17</publishTime>
+    </File>
+    <File Include="Views/PartnerLevels/Edit.vbhtml">
+      <publishTime>08/30/2018 11:10:18</publishTime>
+    </File>
+    <File Include="Views/PartnerLevels/Index.vbhtml">
+      <publishTime>08/30/2018 11:10:18</publishTime>
+    </File>
+    <File Include="Views/PriceLists/Create.vbhtml">
+      <publishTime>08/31/2018 16:08:08</publishTime>
+    </File>
+    <File Include="Views/PriceLists/Delete.vbhtml">
+      <publishTime>09/03/2018 15:53:54</publishTime>
+    </File>
+    <File Include="Views/PriceLists/Details.vbhtml">
+      <publishTime>09/03/2018 15:50:31</publishTime>
+    </File>
+    <File Include="Views/PriceLists/Edit.vbhtml">
+      <publishTime>09/03/2018 15:51:52</publishTime>
+    </File>
+    <File Include="Views/PriceLists/Index.vbhtml">
+      <publishTime>09/05/2018 14:30:17</publishTime>
+    </File>
+    <File Include="Views/Prices/AllPrices.vbhtml">
+      <publishTime>09/05/2018 14:48:40</publishTime>
+    </File>
+    <File Include="Views/Prices/Create.vbhtml">
+      <publishTime>09/18/2018 13:27:35</publishTime>
+    </File>
+    <File Include="Views/Prices/Delete.vbhtml">
+      <publishTime>09/05/2018 14:53:55</publishTime>
+    </File>
+    <File Include="Views/Prices/Details.vbhtml">
+      <publishTime>08/31/2018 15:13:07</publishTime>
+    </File>
+    <File Include="Views/Prices/Edit.vbhtml">
+      <publishTime>08/31/2018 15:13:08</publishTime>
+    </File>
+    <File Include="Views/Prices/Index.vbhtml">
+      <publishTime>08/31/2018 15:13:09</publishTime>
+    </File>
+    <File Include="Views/Projects/AddCustomerToProject.vbhtml">
+      <publishTime>09/14/2018 10:37:24</publishTime>
+    </File>
+    <File Include="Views/Projects/AddCustomerToProjectAndBackToSubscription.vbhtml">
+      <publishTime>09/14/2018 11:12:17</publishTime>
+    </File>
+    <File Include="Views/Projects/Create.vbhtml">
+      <publishTime>09/06/2018 13:15:56</publishTime>
+    </File>
+    <File Include="Views/Projects/CreateAndBackToDebitLine.vbhtml">
+      <publishTime>09/12/2018 11:32:09</publishTime>
+    </File>
+    <File Include="Views/Projects/Delete.vbhtml">
+      <publishTime>09/06/2018 13:27:00</publishTime>
+    </File>
+    <File Include="Views/Projects/Details.vbhtml">
+      <publishTime>08/30/2018 11:10:44</publishTime>
+    </File>
+    <File Include="Views/Projects/Edit.vbhtml">
+      <publishTime>09/14/2018 10:38:15</publishTime>
+    </File>
+    <File Include="Views/Projects/Index.vbhtml">
+      <publishTime>09/14/2018 10:37:39</publishTime>
+    </File>
+    <File Include="Views/ProjectTerminologies/Create.vbhtml">
+      <publishTime>09/12/2018 10:39:24</publishTime>
+    </File>
+    <File Include="Views/ProjectTerminologies/Delete.vbhtml">
+      <publishTime>09/12/2018 10:26:29</publishTime>
+    </File>
+    <File Include="Views/ProjectTerminologies/Details.vbhtml">
+      <publishTime>09/12/2018 10:26:30</publishTime>
+    </File>
+    <File Include="Views/ProjectTerminologies/Edit.vbhtml">
+      <publishTime>09/12/2018 10:26:31</publishTime>
+    </File>
+    <File Include="Views/ProjectTerminologies/Index.vbhtml">
+      <publishTime>09/12/2018 10:36:05</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/AllResourceEventLines.vbhtml">
+      <publishTime>09/17/2018 16:33:49</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Create.vbhtml">
+      <publishTime>09/18/2018 09:33:38</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Delete.vbhtml">
+      <publishTime>09/18/2018 09:36:27</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Details.vbhtml">
+      <publishTime>09/17/2018 15:37:46</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Edit.vbhtml">
+      <publishTime>09/17/2018 15:37:47</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Index.vbhtml">
+      <publishTime>09/17/2018 15:37:47</publishTime>
+    </File>
+    <File Include="Views/ResourceEventLines/Schedule.vbhtml">
+      <publishTime>09/18/2018 15:33:53</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.vbhtml">
+      <publishTime>08/30/2018 10:55:43</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.vbhtml">
+      <publishTime>09/19/2018 09:02:49</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.vbhtml">
+      <publishTime>09/06/2018 14:39:56</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/AllCustomers.vbhtml">
+      <publishTime>09/10/2018 14:42:25</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/AllSubsicriptions.vbhtml">
+      <publishTime>09/13/2018 15:02:31</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/AllSubsicriptionsInDebitLines.vbhtml">
+      <publishTime>09/11/2018 13:29:59</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/AllSubsicriptionsWithDebitLinesOverview.vbhtml">
+      <publishTime>09/14/2018 14:53:56</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/Create.vbhtml">
+      <publishTime>09/14/2018 11:06:35</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/Delete.vbhtml">
+      <publishTime>09/10/2018 14:37:18</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/Details.vbhtml">
+      <publishTime>09/07/2018 08:57:42</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/Edit.vbhtml">
+      <publishTime>09/17/2018 11:22:19</publishTime>
+    </File>
+    <File Include="Views/Subscriptions/Index.vbhtml">
+      <publishTime>09/07/2018 08:57:43</publishTime>
+    </File>
+    <File Include="Views/UserSettings/Create.vbhtml">
+      <publishTime>09/04/2018 11:07:41</publishTime>
+    </File>
+    <File Include="Views/UserSettings/Delete.vbhtml">
+      <publishTime>09/04/2018 11:07:42</publishTime>
+    </File>
+    <File Include="Views/UserSettings/Details.vbhtml">
+      <publishTime>09/05/2018 10:41:57</publishTime>
+    </File>
+    <File Include="Views/UserSettings/Edit.vbhtml">
+      <publishTime>09/05/2018 10:39:30</publishTime>
+    </File>
+    <File Include="Views/UserSettings/Index.vbhtml">
+      <publishTime>09/05/2018 10:44:59</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.vbhtml">
+      <publishTime>08/30/2018 10:55:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/19/2018 16:53:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
